@@ -2,7 +2,7 @@
 
 This project is convert of youtube admin panel by javascript mastery to persian one.
 
-in this project we have react-js, react UI, react icons, tailwind and …
+Feature that i use in this project is react-js, react UI, react icons, tailwind and …
 
 this project was so helpful for me because I learn to how to use tailwind in project.
 
